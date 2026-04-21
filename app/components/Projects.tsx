@@ -41,6 +41,18 @@ const projects = [
     tech: ['Python', 'Selenium', 'Automation', 'Scheduling'],
   },
   {
+    title: 'AI Resume Builder',
+    tag: 'Next.js · AI · Vercel',
+    desc: 'AI-powered resume builder with real-time editing, ATS scoring, and smart content generation.',
+    image: '/projects/resume.jpg',
+    color: '#6366f1',
+    bg: '#eef2ff',
+    problem: 'Creating ATS-friendly resumes manually is time-consuming and users often struggle with wording, formatting, and keyword optimization.',
+    solution: 'Built a full-stack resume builder using Next.js with AI integration to generate summaries, bullet points, and skills dynamically. Implemented job description analysis for keyword matching and ATS optimization, along with live preview editing.',
+    outcome: 'Enabled users to generate professional, optimized resumes in seconds. Improved resume quality, reduced effort, and increased chances of passing ATS filters.',
+    tech: ['Next.js', 'AI API', 'Tailwind CSS', 'Vercel'],
+  },
+  {
     title: 'STEAM STARTER',
     tag: 'Publication · IoT · Arduino',
     desc: 'Co-authored a full-length IoT learning guide covering Arduino, ESP8266 and ESP32.',
